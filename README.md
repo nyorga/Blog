@@ -67,3 +67,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Postman collection
 [Postman collection url](https://www.postman.com/nyorga/workspace/blog/overview)
+
